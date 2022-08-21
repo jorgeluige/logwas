@@ -8,3 +8,4 @@
 	RollingFile name="RollingFile" filename="**C:\logs\logapp.log**" filepattern="${logPath}/%d{yyyyMMddHHmmss}-fargo.log" 
 ----------
 
+- O **url-pattern** está configuradp para **/Log**, por isso ao abri o aplicativo não esqueça de usar o **/Log** ao final da URL.  
