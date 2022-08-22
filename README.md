@@ -9,3 +9,5 @@
 ----------
 
 - O **url-pattern** está configuradp para **/Log**, por isso ao abrir o aplicativo não esqueça de usar o **/Log** ao final da URL.  
+
+![image](https://user-images.githubusercontent.com/37905961/185829192-747920bd-4565-4f0b-9bcf-f94c777e0326.png)
