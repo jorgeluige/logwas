@@ -12,7 +12,8 @@
 ![image](https://user-images.githubusercontent.com/37905961/185829192-747920bd-4565-4f0b-9bcf-f94c777e0326.png)
 	
 ---------
-**mvn clean package** dentro do diretório do projeto, é necessário ter o **Maven** instalado e configurado. 
+**mvn clean package** dentro do diretório do projeto, é necessário ter o **Maven** instalado e configurado.
+O pacote **logwas.war** será gerado no \target 
 	
 ![image](https://user-images.githubusercontent.com/37905961/185829796-ad041dab-9da7-438c-9f6e-18681821bd21.png)
 ![image](https://user-images.githubusercontent.com/37905961/185829951-5b48036e-f3a5-4ff7-aeba-813ba1c9acde.png)
